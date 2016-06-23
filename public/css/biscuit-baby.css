@@ -53,7 +53,7 @@ hr {
     font-weight: 400;
     letter-spacing: 3px;
     display: none;
-    color: rgba(198, 67, 40, 0.93);
+    color: #000;
 }
 .navbar-brand {
     text-transform: uppercase;
@@ -108,20 +108,26 @@ footer {
 }
 footer p {
     margin: 0;
-    padding-bottom: : 15px;
     font-size: .8em;
     line-height: 1.6;
     color: #878787;
 }
-.biscuit-clicker {
-
+.gallery-text {
+    margin: 0;
+    padding-bottom: 14px;
+    font-size: .8em;
+    line-height: 1.6;
+    color: #878787;
 }
+
+.biscuit-clicker {}
 .text-right-padding {
     padding-right: 8px
 }
 .checkout-box {
     border: 1px solid #878787;
 }
+
 /** {
     margin: 0;
     padding: 0;
@@ -178,7 +184,7 @@ h4 {
         font-size: .6em;
         /*font-weight: 100;
       letter-spacing: 3px;*/
-        /*color: rgba(198, 67, 40, 0.93);*/
+        /*color: #000;*/
     }
     .about-box {
         font-size: .8em;
@@ -229,7 +235,7 @@ h4 {
         font-size: 1em;
         font-weight: 100;
         letter-spacing: 3px;
-        color: rgba(198, 67, 40, 0.93);
+        color: #000;
     }
     .about-box {
         font-size: 1em;
